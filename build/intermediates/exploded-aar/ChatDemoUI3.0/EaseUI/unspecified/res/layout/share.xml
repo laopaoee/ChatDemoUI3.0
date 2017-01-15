@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:orientation="vertical"
+              xmlns:android="http://schemas.android.com/apk/res/android">
+<RelativeLayout
+    android:id="@+id/bubble"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/tv_userid"
+    android:layout_marginLeft="@dimen/margin_chat_activity"
+    android:layout_toRightOf="@id/iv_userhead"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:id="@+id/title"
+        android:text="我是分享主标题"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <RelativeLayout
+        android:layout_below="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/img"
+            android:src="@drawable/ease_default_avatar"
+            android:layout_width="60dp"
+            android:layout_height="60dp"/>
+
+        <TextView
+            android:id="@+id/sub_title"
+            android:layout_toRightOf="@+id/img"
+            android:text="我是分享副标题，今天天气很不错"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    </RelativeLayout>
+
+
+
+</RelativeLayout>
+
+<LinearLayout
+android:layout_width="match_parent"
+android:orientation="horizontal"
+android:layout_height="wrap_content">
+<Button
+    android:text="取消"
+    android:id="@+id/cancel"
+    android:layout_weight="1"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"/>
+<Button
+    android:text="确定"
+    android:id="@+id/send"
+    android:layout_weight="1"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"/>
+</LinearLayout>
+</LinearLayout>

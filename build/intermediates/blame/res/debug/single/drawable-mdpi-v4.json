@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\runDemo\\extensional\\extensional\\examples\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\popup_pictip_img_bg.xml",
+        "source": "D:\\runDemo\\extensional\\extensional\\examples\\ChatDemoUI3.0\\build\\intermediates\\exploded-aar\\ChatDemoUI3.0\\EaseUI\\unspecified\\res\\drawable-mdpi-v4\\popup_pictip_img_bg.xml"
+    },
+    {
+        "merged": "D:\\runDemo\\extensional\\extensional\\examples\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\runDemo\\extensional\\extensional\\examples\\ChatDemoUI3.0\\build\\intermediates\\exploded-aar\\ChatDemoUI3.0\\EaseUI\\unspecified\\res\\drawable-mdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\runDemo\\extensional\\extensional\\examples\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\popup_pictip_bg.xml",
+        "source": "D:\\runDemo\\extensional\\extensional\\examples\\ChatDemoUI3.0\\build\\intermediates\\exploded-aar\\ChatDemoUI3.0\\EaseUI\\unspecified\\res\\drawable-mdpi-v4\\popup_pictip_bg.xml"
+    }
+]

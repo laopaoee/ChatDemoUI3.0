@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\runDemo\extensional\extensional\examples\ChatDemoUI3.0\netbase\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\runDemo\extensional\extensional\examples\ChatDemoUI3.0\netbase\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_8431a374b9e3228aa33a1008e53a3f53da6b5b91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\runDemo\extensional\extensional\examples\ChatDemoUI3.0\netbase\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\runDemo\extensional\extensional\examples\ChatDemoUI3.0\netbase\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_7bb75d6c75e3c2744daa571225e314e2dd2fdff1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\runDemo\extensional\extensional\examples\ChatDemoUI3.0\netbase\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\runDemo\extensional\extensional\examples\ChatDemoUI3.0\netbase\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b47b40eee54d89c03358c57439aee28656bf2408.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\runDemo\extensional\extensional\examples\ChatDemoUI3.0\netbase\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\runDemo\extensional\extensional\examples\ChatDemoUI3.0\netbase\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_7a3b508d5f849d2257f42cd5d59212511d803011.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\runDemo\extensional\extensional\examples\ChatDemoUI3.0\netbase\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\runDemo\extensional\extensional\examples\ChatDemoUI3.0\netbase\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_ddfb651c3754d7f670c3ef06d5e4206cf28d3c65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\runDemo\extensional\extensional\examples\ChatDemoUI3.0\netbase\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\runDemo\extensional\extensional\examples\ChatDemoUI3.0\netbase\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_211f9279669b358ffe9873b8caac578549d5bcc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\runDemo\extensional\extensional\examples\ChatDemoUI3.0\netbase\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\runDemo\extensional\extensional\examples\ChatDemoUI3.0\netbase\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_fc284b3bda9eaf82cbe1729a0408fd6f0b28df5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\runDemo\extensional\extensional\examples\ChatDemoUI3.0\netbase\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\runDemo\extensional\extensional\examples\ChatDemoUI3.0\netbase\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_571a3f20d8a93ee684b654f07109b86021d68412.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\runDemo\extensional\extensional\examples\ChatDemoUI3.0\netbase\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\runDemo\extensional\extensional\examples\ChatDemoUI3.0\netbase\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_6c7deb1e4fbbc67a342e9121ddabbefd860bf042.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\runDemo\extensional\extensional\examples\ChatDemoUI3.0\netbase\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\runDemo\extensional\extensional\examples\ChatDemoUI3.0\netbase\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_3fd62d900495896312042081edef4a125b32c06f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\LiuHaiTao\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\runDemo\extensional\extensional\examples\ChatDemoUI3.0\netbase\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_1130dbdaca0947b3469cc30a46d88cf5310677e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\runDemo\extensional\extensional\examples\ChatDemoUI3.0\netbase\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\runDemo\extensional\extensional\examples\ChatDemoUI3.0\netbase\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ab856e13fc09ca18384db476a554ef9ea661c33e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\runDemo\extensional\extensional\examples\ChatDemoUI3.0\netbase\build\intermediates\exploded-aar\org.xutils\xutils\3.3.40\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e10132f12da0143881647ccbb4cedb494fe0ba41">
+        <dex dex="D:\runDemo\extensional\extensional\examples\ChatDemoUI3.0\netbase\build\intermediates\pre-dexed\debug\org.xutils-xutils-3.3.40_f92df8f63c4573d4db1dcdb5f9e01b8e639b6591.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\runDemo\extensional\extensional\examples\ChatDemoUI3.0\netbase\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\runDemo\extensional\extensional\examples\ChatDemoUI3.0\netbase\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_f0c1393b1158a3c65f9d21460499a68b0f12ad78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\runDemo\extensional\extensional\examples\ChatDemoUI3.0\netbase\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\runDemo\extensional\extensional\examples\ChatDemoUI3.0\netbase\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_e596a28f12d5b30bb54585b0de978d6f389c0fca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\runDemo\extensional\extensional\examples\ChatDemoUI3.0\netbase\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\runDemo\extensional\extensional\examples\ChatDemoUI3.0\netbase\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_8edf0cfd0bc05950beafbd2196ba7b0ed5b5f006.jar" />
+    </item>
+
+</items>
